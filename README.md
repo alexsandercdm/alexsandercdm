@@ -58,9 +58,10 @@ Produto em discovery para governança de desenvolvimento assistido por IA, com f
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&hide_border=true)
+<a href="https://github.com/alexsandercdm">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&hide_border=true)
 
 </div>
 
