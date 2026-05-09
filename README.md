@@ -1,73 +1,84 @@
-# Olá, eu sou Alex Moura 👋
+# Alex Moura
 
-Software Engineer com foco em **Backend Engineering**, arquitetura de aplicações, APIs, bancos de dados, infraestrutura e desenvolvimento de produtos digitais.
+<div align="center">
 
-Tenho uma trajetória construída na prática, passando por suporte técnico, gestão de TI, implantação de sistemas e desenvolvimento de software. Hoje atuo na construção de sistemas, APIs, soluções multi-tenant, automação de deploys e produtos que conectam tecnologia, operação e negócio.
+**Software Engineer | TypeScript | Node.js | AI Tools | CI/CD | AWS**
 
----
+Backend-focused Software Engineer building SaaS products, APIs, multi-tenant systems and AI-assisted engineering workflows.
 
-## 🚀 Foco atual
-
-- Backend Engineering com TypeScript e Node.js
-- Arquitetura de software, Clean Architecture e sistemas multi-tenant
-- APIs REST, autenticação, permissões e auditoria
-- PostgreSQL, MySQL e modelagem de dados
-- Docker, CI/CD, cloud e deploy de aplicações
-- AI-assisted Development com Claude Code, Codex, Cursor e Copilot
+</div>
 
 ---
 
-## 🧠 Principais competências
+## About me
 
-- **Backend:** TypeScript, Node.js, APIs REST, WebSockets
-- **Architecture:** Clean Architecture, DDD, SOLID, Design Patterns
-- **Databases:** PostgreSQL, MySQL, SQL, modelagem relacional
-- **DevOps:** Docker, CI/CD, GitHub Actions, Linux, Nginx
-- **Cloud:** AWS, VPS, deploy e infraestrutura de aplicações
-- **AI Tools:** Claude Code, Codex, Cursor, Copilot
+Sou Software Engineer com foco em **Backend Engineering**, arquitetura de aplicações, APIs, bancos de dados e infraestrutura.
+
+Minha experiência combina desenvolvimento de software, gestão de TI, suporte técnico e construção de produtos digitais. Atuo na criação de sistemas SaaS, soluções multi-tenant, automação de deploys, modelagem de dados e uso estratégico de **AI Tools** para acelerar desenvolvimento com qualidade técnica.
 
 ---
 
-## 🧩 Projetos em destaque
+## Core Skills
+
+<div align="center">
+
+| Area | Skills |
+|---|---|
+| **Backend** | TypeScript · Node.js · APIs REST |
+| **Architecture** | Clean Architecture · DDD · SOLID |
+| **Databases** | PostgreSQL · MySQL · SQL |
+| **DevOps** | Docker · CI/CD · GitHub Actions · Linux |
+| **Cloud** | AWS · VPS · Application Deployments |
+| **AI-assisted Development** | Claude Code · Codex · Cursor · Copilot |
+
+</div>
+
+---
+
+## Featured Projects
 
 ### Koinonia
-Sistema SaaS multi-tenant para gestão de retiros, eventos e operações ministeriais.
 
-Principais desafios técnicos:
-- Arquitetura multi-tenant com isolamento por organização
-- Autenticação, roles e permissões
-- Gestão de pessoas, eventos, inscrições, pagamentos e acomodações
-- Backend com TypeScript, Fastify, PostgreSQL e Drizzle ORM
-- Estruturação de PRD, UATs, critérios de aceite e documentação técnica
+SaaS multi-tenant para gestão de retiros, eventos, inscrições, pagamentos, acomodações, organizações, permissões e auditoria.
+
+**Stack:** TypeScript · Fastify · React · PostgreSQL · Drizzle ORM · Better Auth · Docker
+
+---
 
 ### HolyHouse Harness
-Produto em discovery/prototipação para governança de desenvolvimento assistido por IA.
 
-Principais desafios técnicos:
-- Memória persistente de projeto para agentes de IA
-- Padronização de heurísticas técnicas
-- Rastreabilidade de decisões arquiteturais
-- Controle de qualidade para fluxos com Claude Code, Codex e Cursor
-- Pesquisa de produto, ICP, validação de dor e posicionamento
+Produto em discovery para governança de desenvolvimento assistido por IA, com foco em memória persistente, padrões técnicos, rastreabilidade e qualidade em fluxos com agentes de código.
+
+**Area:** AI Tools · Developer Tools · Product Engineering · Governance · Software Architecture
 
 ---
 
-## 📌 O que você encontra neste GitHub
+## GitHub Activity
 
-Aqui compartilho projetos, estudos e experimentos relacionados a:
+<div align="center">
 
-- Engenharia de software aplicada a produtos reais
-- Backend development
-- Arquitetura de sistemas
-- Multi-tenancy
-- Bancos de dados
-- DevOps e deploy
-- AI-assisted software development
-- Documentação técnica e engenharia de contexto
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
-## 📫 Contato
+## Contribution Snake
 
-- LinkedIn: https://linkedin.com/in/alexsandercdm
-- Email: alexsander@holyshouselabs.com
+<div align="center">
+
+![Snake animation](https://github.com/alexsandercdm/alexsandercdm/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/alexsandercdm) · [Email](mailto:alexsander@holyshouselabs.com)
+
+</div>
