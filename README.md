@@ -58,10 +58,29 @@ Produto em discovery para governança de desenvolvimento assistido por IA, com f
 
 <div align="center">
 
-<a href="https://github.com/alexsandercdm">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alexsandercdm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" />
+</picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandercdm&layout=compact&theme=github_dark&hide_border=true" />
+</picture>
 
 </div>
 
